@@ -29,10 +29,14 @@ ms.custom: intune-enduser
 
 ---
 
-# You need to make your device able to scan for security threats
+# Enable security threat scans on your device
 
-Your Android device is able to download and install apps that can accomplish a wide variety of tasks. Not all apps are equal, though, and some apps may cause issues. A general recommendation is to download apps only from verified sources, such as the Google Play Store. One way your company support has decided to additionally protect the data on your device is by having Google scan the apps you're installing to make sure they're safe.
+App help to accomplish a wide variety of tasks, but if you unknowingly install an unsafe app, you may encounter problems on your device. To protect the data on your device:
+* Only download apps from verified sources, such as the Google Play Store. 
+* Enable security threat scans on your device. These scans are performed by Google and verify that apps are safe to install.
 
-You can turn on this scanning by going to **Settings** > **Google** > **Security**, and turn on **Scan device for security threats**.
+To enable the scans on your device go to **Settings** > **Google** > **Security**. Turn on **Scan device for security threats**.
+
+On some Samsung devices, you may find the scan setting in **Settings > Google > Security > Google Play Protect**.
 
 Still need help? Contact your company support. For contact information, check the [Company Portal website](https://portal.manage.microsoft.com#HelpDeskDialog).
